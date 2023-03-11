@@ -1,6 +1,6 @@
 ### Olá, eu sou o Junior Santos 
 
-- 📘☕ Estudando Kotlin
+- 📘 Estudando Kotlin
 
 <div align="center">
   <a href="https://github.com/jrsimpsons">
